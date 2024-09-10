@@ -1,0 +1,9 @@
+
+How can you see your remote URLs?
+How can you change a remote URL? What command would you use?
+What is the difference between an HTTPS and SSH URL?
+For this class, should you add and edit files directly on GitHub.com (using their editor/upload function)?
+What format should you use for your commit messages?
+How do you get the changes in your origin to your local repository? What command do you use?
+How do you stop Git from tracking a certain file in your repository?
+How do you create a new local copy of your repository? What command do you use?
